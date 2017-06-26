@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Statistical Modeling}{3}{0}{1}
+\beamer@sectionintoc {2}{Regression vs. Classification}{9}{0}{2}
+\beamer@sectionintoc {3}{Error, Loss Functions}{11}{0}{3}
+\beamer@sectionintoc {4}{Model I: k-Nearest Neighbours}{15}{0}{4}
+\beamer@sectionintoc {5}{Model II: Linear Regression}{25}{0}{5}
+\beamer@sectionintoc {6}{Evaluating Model Performance}{31}{0}{6}
+\beamer@sectionintoc {7}{Comparison of Two Models}{37}{0}{7}

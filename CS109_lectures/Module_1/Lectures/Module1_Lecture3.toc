@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Review}{3}{0}{1}
+\beamer@sectionintoc {2}{More on Model Evaluation}{6}{0}{2}
+\beamer@sectionintoc {3}{Multiple Linear Regression}{15}{0}{3}
+\beamer@sectionintoc {4}{Evaluating Significance of Predictors}{19}{0}{4}
+\beamer@sectionintoc {5}{Multiple Regression with Interaction Terms}{29}{0}{5}
+\beamer@sectionintoc {6}{Polynomial Regression}{33}{0}{6}
