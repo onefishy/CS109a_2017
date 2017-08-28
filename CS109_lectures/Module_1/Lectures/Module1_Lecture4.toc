@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Review}{3}{0}{1}
-\beamer@sectionintoc {2}{Model Selection: Overview}{7}{0}{2}
-\beamer@sectionintoc {3}{Stepwise Variable Selection}{12}{0}{3}
-\beamer@sectionintoc {4}{Cross Validation}{17}{0}{4}
-\beamer@sectionintoc {5}{Applications of Model Selection}{21}{0}{5}
