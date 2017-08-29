@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{What is Data Science}{3}{0}{1}
+\beamer@sectionintoc {2}{What is This Class?}{5}{0}{2}
+\beamer@sectionintoc {3}{Practicing Data Science}{7}{0}{3}
